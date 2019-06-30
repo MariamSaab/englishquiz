@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">EnglishQuiz</string>
+    <string name="question_alphabet">1. Английский алфавит имеет 26 букв.</string>
+    <string name="question_article">2. "А" - это артикль.</string>
+    <string name="question_week">3. "Tuesday" - это четверг.</string>
+    <string name="question_americans">4. Американцы говорят на американском языке.</string>
+    <string name="question_seasons">5. "Summer" - это лето.</string>
+    <string name="question_holiday">6. "Holidays" - это каникулы.</string>
+    <string name="question_first">7. "First" - означает первый.</string>
+    <string name="question_magazine">8. "Magazine" - это магазин.</string>
+    <string name="question_library">10. "Library" - это театр.</string>
+    <string name="question_pink">9. "Pink" - это розовый цвет.</string>
+    <string name="question_feet">11. "Feet" - означает друзья.</string>
+    <string name="question_bed">12. "Bed" - это плохой.</string>
+    <string name="question_goods">13. "Goods" - это товары.</string>
+    <string name="question_hundred">14. "Hundred" - это злой.</string>
+    <string name="question_weak">15. "Weak" - означает слабый.</string>
+    <string name="question_the_worst">16. "The worst" - это наихудший.</string>
+    <string name="question_litter">17. "Litter" - это мусор.</string>
+    <string name="question_mistake">18. "Mistake" - это задача.</string>
+    <string name="question_lot_of">19. "A lot of" - значает много.</string>
+    <string name="question_fine">20. "Fine" - это штраф.</string>
+    <string name="question_must_not">21. "Must not" - это нельзя.</string>
+    <string name="question_expensive">22. "Expensive" - это дешёвый.</string>
+    <string name="question_i_have">23. "I've got" - это я имею.</string>
+    <string name="question_clever">24. "Clever" - это цветок.</string>
+    <string name="question_kind">23. "Kind" - это добрый.</string>
+    <string name="question_large">24. "Large" - это маленький.</string>
+    <string name="question_saw">25. "Saw" - означает видел(а).</string>
+    <string name="question_daughter">26. "Daughter" - это декабрь.</string>
+    <string name="question_water">27. "Water" - это зима.</string>
+    <string name="question_swim">28. "Swim" - это бассейн.</string>
+    <string name="question_now">29. "Now" - это вчера.</string>
+    <string name="question_ask">30. "Ask" - это спрашивать.</string>
+
+    <string name="true_button">Да</string>
+    <string name="false_button">Нет</string>
+    <string name="correct_toast">Правильно!</string>
+    <string name="incorrect_toast">Неправильно!
+    </string>
+    <string name="next_button">Next</string>
+    <string name="next_button2">Платное активити</string>
+</resources>
